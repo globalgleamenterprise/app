@@ -1,0 +1,23 @@
+{
+  "gdprUrl": "https://sites.google.com/view/globalgleamenterprise/home",
+  "numberOfClickForAds": 3,
+  "intersAdsID": "",
+  "rewardAdsID": "",
+  "bannerID": "",
+  "admobAppId": "ca-app-pub-3940256099942544~3347511710",
+  "admobPublisherId": "pub-3940256099942544",
+"unityId": "3670297",
+"startAppId": "205588932",
+"startAppDevid": "198374153",
+  "bannerCountPerMin": "60/1",
+  "intersCountPerMin": "10/1",
+  "rewardCountPerMin" : "5/1",
+  "loadingCancelTime": 10,
+  "bannerType": 3,
+  "intersType": 2,
+  "rewardType": 4,
+  "showBanner": false,
+  "showInters": false,
+  "showReward": true,
+  "splashAds": false
+}
